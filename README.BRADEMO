@@ -1,0 +1,18 @@
+# 📱 BRADEMO - Exercícios de Dispositivos Móveis
+
+Este repositório contém exercícios desenvolvidos na disciplina **BRADEMO - Desenvolvimento de Dispositivos Móveis)**.  
+Os projetos foram construídos utilizando o **framework Flutter**, cada um explorando diferentes funcionalidades de aplicativos móveis.
+
+## 🚀 Sobre o repositório
+- Cada pasta representa um exercício independente.  
+- Em cada exercício foi trabalhado um recurso ou funcionalidade nova do Flutter, explorando como esses recursos podem ser aplicados em aplicativos reais.  
+
+## 🛠️ Funcionalidades exploradas
+Alguns dos recursos praticados ao longo dos exercícios incluem:  
+- 📷 **Utilização da câmera**  
+- 📍 **Acesso à localização do dispositivo (GPS)**  
+- 💾 **Armazenamento local**  
+- 🌐 **Consumo de APIs e requisições HTTP**  
+- 🎨 **Interface responsiva e componentes do Flutter**  
+- 🔔 **Notificações**  
+- 🔒 **Permissões de sistema (ex.: acesso a câmera e localização)**  
